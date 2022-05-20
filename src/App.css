@@ -5,6 +5,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  display: none;
 }
 
 .footer{
@@ -17,4 +18,21 @@
 
 .main {
   height: 100vh;
+}
+
+.hola{
+  display: flex;
+  justify-content: center;
+  color : rgb(17, 0, 255)
+}
+
+.hole{
+  display: flex;
+  justify-content: center;
+  color : yellow
+}
+.test{
+  display: flex;
+  justify-content: center;
+  gap :100px
 }
